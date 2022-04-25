@@ -1,8 +1,0 @@
-F:\Projetos C#\TaxPayment\TaxPayment\bin\Debug\TaxPayment.exe.config
-F:\Projetos C#\TaxPayment\TaxPayment\bin\Debug\TaxPayment.exe
-F:\Projetos C#\TaxPayment\TaxPayment\bin\Debug\TaxPayment.pdb
-F:\Projetos C#\TaxPayment\TaxPayment\obj\Debug\TaxPayment.csproj.AssemblyReference.cache
-F:\Projetos C#\TaxPayment\TaxPayment\obj\Debug\TaxPayment.csproj.SuggestedBindingRedirects.cache
-F:\Projetos C#\TaxPayment\TaxPayment\obj\Debug\TaxPayment.csproj.CoreCompileInputs.cache
-F:\Projetos C#\TaxPayment\TaxPayment\obj\Debug\TaxPayment.exe
-F:\Projetos C#\TaxPayment\TaxPayment\obj\Debug\TaxPayment.pdb
