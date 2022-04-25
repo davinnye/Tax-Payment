@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace TaxPayment.Entities
 {
     abstract class TaxPayer
@@ -21,6 +16,8 @@ namespace TaxPayment.Entities
         }
 
         public abstract double Tax();
+
+
         
     }
 }
